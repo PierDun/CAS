@@ -1,0 +1,13 @@
+.vehicle-form {
+    margin: 0 auto;
+    width: 40%;
+}
+
+.vehicle-form p {
+    text-align: initial;
+}
+
+.vehicle-form h2 {
+    text-align: center;
+    margin-top: 20px;
+}

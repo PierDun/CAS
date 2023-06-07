@@ -1,0 +1,45 @@
+.main-page {
+    display: flex;
+}
+
+.center{
+    color: white;
+    font-style: italic;
+    padding: 20%;
+}
+
+.filter {
+    float: right;
+    width: 25%;
+    margin: 20px 20px 20px 40px;
+}
+
+.table {
+    float: left;
+    width: 70%;
+    margin: 20px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.node {
+    cursor: pointer;
+}
+
+.node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+
+.node text {
+    font: 10px sans-serif;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+}

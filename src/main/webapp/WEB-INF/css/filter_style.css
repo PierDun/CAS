@@ -1,0 +1,24 @@
+.filter-form {
+}
+
+.filter-btn, .name-filter-btn {
+    display: flex;
+    margin: 20px 0 0 auto;
+}
+
+.filter-tabs {
+    margin: 10px 0;
+}
+
+.filter-tabs a {
+    padding: 8px;
+}
+
+p {
+    margin: 0;
+}
+
+.filter-form__range {
+    display: flex;
+    flex-direction: row;
+}
